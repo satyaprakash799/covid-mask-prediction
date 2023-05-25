@@ -8,4 +8,4 @@ The dataset contains results from a survey about individuals’ attitudes toward
 
 <img width="300" alt="image" src="https://github.com/satyaprakash799/covid-mask-prediction/assets/121471959/afdddcdf-2b0d-4c3c-b7f9-587bdfe1e723">
 
-There are 155 input variables each corresponding to a specific question, and one output variable. The output variable comes from the question: “How often do you wear a mask around people who do not live in your home?” The scale of the answers range from Never (1) to Always (5). There are 479 individuals in the training data. The figure shows the number of responders in each category. 
+There are 155 input variables each corresponding to a specific question, and one output variable. The output variable comes from the question: “How often do you wear a mask around people who do not live in your home?” The scale of the answers range from Never (1) to Always (5). There are 479 individuals in the training data. The figure shows the number of responders in each category. There are 100 individuals in the test data holded for testing the trained model.
